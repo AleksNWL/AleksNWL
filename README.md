@@ -8,7 +8,9 @@
 ## ⚡ Мои стек и технологии, которыми я пользуюсь:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-**Конечно же JavaScript, не php же...**
+*Конечно же JavaScript, не php же...*
+
+
 
 **Библиотека React❤️‍🔥:**
 

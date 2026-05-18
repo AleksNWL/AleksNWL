@@ -16,6 +16,6 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-## 📫 Пишите, если скучно, либо решили предложить мне офер:
+## 📫 Пишите, если скучно, либо решили предложить мне оффер:
 - 📧 Email: Grifon595@yandex.ru
 - 💬 Telegram: [@AleksNWL](https://t.me/AleksNWL)
